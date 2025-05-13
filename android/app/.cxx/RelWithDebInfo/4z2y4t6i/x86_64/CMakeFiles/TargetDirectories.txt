@@ -1,0 +1,2 @@
+D:/echo_journal/echo_jounal_main/android/app/.cxx/RelWithDebInfo/4z2y4t6i/x86_64/CMakeFiles/edit_cache.dir
+D:/echo_journal/echo_jounal_main/android/app/.cxx/RelWithDebInfo/4z2y4t6i/x86_64/CMakeFiles/rebuild_cache.dir
